@@ -1,0 +1,10 @@
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\bin\Debug\Arduino Fan Controller.exe.config
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\bin\Debug\Arduino Fan Controller.exe
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\bin\Debug\Arduino Fan Controller.pdb
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\obj\Debug\Arduino Fan Controller.csprojResolveAssemblyReference.cache
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\obj\Debug\Arduino_Fan_Controller.Properties.Resources.resources
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\obj\Debug\Arduino Fan Controller.csproj.GenerateResource.Cache
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\obj\Debug\Arduino Fan Controller.exe
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\obj\Debug\Arduino Fan Controller.pdb
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\bin\Debug\badtemp.ico
+P:\Documents\VS2013 Projects\Arduino Fan Controller\Arduino Fan Controller\bin\Debug\goodtemp.ico
